@@ -18,7 +18,7 @@ const overlay = document.querySelector('.overlay');
 const btnCloseModal = document.querySelector('.close-modal');
 const btnsOpenModal = document.querySelector('.btn--rules');
 
-// Starting conditions
+// Starting variables
 let score, currentScore, activePlayer, playing;
 
 // Declare Functions
